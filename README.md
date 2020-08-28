@@ -23,7 +23,7 @@ MySQL database.
 2.Open it in Apache NetBeans IDE and add all the libraries used (montioned above).
 
 3.Import & execute the SQL queries from the Database folder to the MySQL database.
-<a href="master/sql.txt" target="_blank">Libraries</a>
+<a href="sql.txt" target="_blank">Libraries</a>
 
 4.Run the application.
 
