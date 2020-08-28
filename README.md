@@ -30,11 +30,11 @@ MySQL database.
 ## Screenshots of Admin Section
 <img src="img/1.PNG" width="850" height="550">
 
-<img src="img/2.PNG" width="300" height="300"><img src="img/3.PNG" width="300" height="300">
-<img src="img/4.PNG" width="300" height="300"><img src="img/5.PNG" width="300" height="300">
-<img src="img/6.PNG" width="300" height="300"><img src="img/7.PNG" width="300" height="300">
-<img src="img/8.PNG" width="300" height="300">
+<img src="img/2.PNG" width="400" height="300"><img src="img/3.PNG" width="400" height="300">
+<img src="img/4.PNG" width="400" height="300"><img src="img/5.PNG" width="400" height="300">
+<img src="img/6.PNG" width="400" height="300"><img src="img/7.PNG" width="400" height="300">
+<img src="img/8.PNG" width="400" height="300">
 
 ## Screenshots of Student Section
-<img src="img/9.PNG" width="300" height="300"><img src="img/10.PNG" width="300" height="300">
-<img src="img/11.PNG" width="300" height="300"><img src="img/12.PNG" width="300" height="300">
+<img src="img/9.PNG" width="400" height="300"><img src="img/10.PNG" width="400" height="300">
+<img src="img/11.PNG" width="400" height="300"><img src="img/12.PNG" width="400" height="300">
