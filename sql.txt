@@ -1,0 +1,24 @@
+create database exam;
+
+create table question(
+id varchar(50) NOT NULL,
+name varchar(800) NOT NULL,
+opt1 varchar(500) NOT NULL,
+opt2 varchar(500) NOT NULL,
+opt3 varchar(500) NOT NULL,
+opt4 varchar(500) NOT NULL,
+answer varchar(800) NOT NULL
+);
+
+create table student(
+name varchar(100) NOT NULL,
+fatherName varchar(100) NOT NULL,
+motherName varchar(100) NOT NULL,
+gender varchar(50) NOT NULL,
+contactNo varchar(10) NOT NULL,
+location varchar(500) NOT NULL,
+marks int NOT NULL,
+email varchar(60) NOT NULL,
+rollNo varchar(20),
+PRIMARY KEY(rollNo)
+);
